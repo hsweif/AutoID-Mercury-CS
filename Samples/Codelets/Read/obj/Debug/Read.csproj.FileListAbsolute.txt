@@ -1,0 +1,7 @@
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\bin\Debug\Read.exe
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\bin\Debug\Read.pdb
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\bin\Debug\MercuryAPI.dll
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\bin\Debug\LLRP.dll
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\obj\Debug\Read.csprojResolveAssemblyReference.cache
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\obj\Debug\Read.exe
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\Codelets\Read\obj\Debug\Read.pdb

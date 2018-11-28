@@ -1,0 +1,14 @@
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\ThingMagic.Reader.csprojResolveAssemblyReference.cache
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\MercuryAPI.dll
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\MercuryAPI.XML
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\MercuryAPI.pdb
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\MercuryAPI.dll
+C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\MercuryAPI.pdb
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\ThingMagic.Reader.csprojAssemblyReference.cache
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\ThingMagic.Reader.csproj.CoreCompileInputs.cache
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\ThingMagic.Reader.csproj.CopyComplete
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\MercuryAPI.dll
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\MercuryAPI.XML
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\ThingMagic.Reader\obj\Debug\MercuryAPI.pdb
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\MercuryAPI.dll
+D:\workspace\RFID\mercuryapi-1.31.0.33\cs\MercuryAPI.pdb
