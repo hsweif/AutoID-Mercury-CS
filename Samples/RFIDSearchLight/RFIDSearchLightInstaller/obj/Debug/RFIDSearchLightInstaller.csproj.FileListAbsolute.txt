@@ -1,5 +1,0 @@
-C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\RFIDSearchLight\RFIDSearchLightInstaller\bin\Debug\RFIDSearchLightInstaller.dll
-C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\RFIDSearchLight\RFIDSearchLightInstaller\bin\Debug\RFIDSearchLightInstaller.pdb
-C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\RFIDSearchLight\RFIDSearchLightInstaller\obj\Debug\RFIDSearchLightInstaller.csprojResolveAssemblyReference.cache
-C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\RFIDSearchLight\RFIDSearchLightInstaller\obj\Debug\RFIDSearchLightInstaller.dll
-C:\Users\saintnever\Documents\THU_drive\autoID\mercuryapi-1.31.0.33\cs\Samples\RFIDSearchLight\RFIDSearchLightInstaller\obj\Debug\RFIDSearchLightInstaller.pdb

@@ -1,5 +1,0 @@
-CREATE TABLE tag_data (record_id int unsigned AUTO_INCREMENT,  PRIMARY KEY ( `record_id` ),
-EPC varchar(24), ant int, count int, time varchar(24),
-Protocol varchar(24), CRC varchar(6), RSSI int,
-Phase int, Freq int, PC varchar(6)
-)ENGINE=InnoDB DEFAULT CHARSET=utf8;
