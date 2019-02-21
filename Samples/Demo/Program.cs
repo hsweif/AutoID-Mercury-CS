@@ -30,7 +30,7 @@ using System.Text.RegularExpressions;
 
 namespace SampleConsoleApplication
 {
-    class Program
+    public class Program
     {
         delegate void CommandFunc(Reader rdr, ArgParser pargs);
         class Command
@@ -654,6 +654,23 @@ namespace SampleConsoleApplication
             TagReadData[] reads = rdr.Read(timeout);
             PrintTagReads(reads);
         }
+
+        public static List<string> GetRfidData(Reader rdr, int timeout, int threshold)
+        {
+            TagReadData[] reads = rdr.Read(timeout);
+            List<string> rfidList = new List<string>();
+            foreach(var read in reads)
+            {
+                if (read.Rssi > threshold)
+                {
+                    string[] items = System.Text.RegularExpressions.Regex.Replace(read.ToString().Trim(), @"[\s]+", " ").Split(" ".ToCharArray());
+                    string epc = items[0].Substring(4);
+                    rfidList.Add(epc);
+                }
+            }
+            return rfidList;
+        }
+
         private static Command MultiRead = new Command(MultiReadSyncFunc, "multiread [timeout]",
             "Search for tags on multiple plans",
             "timeout -- Number of milliseconds to search.  Defaults to a reasonable average number.",
